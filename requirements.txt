@@ -1,0 +1,10 @@
+Flask>=2.0
+python-dotenv>=0.15
+Flask-SQLAlchemy>=2.5
+Flask-Migrate>=3.0
+Flask-Login>=0.5
+Flask-WTF>=0.15
+Werkzeug>=2.0 # For password hashing
+email-validator>=1.1 # For email validation in forms
+Pillow>=9.0 # For image processing (thumbnails, dimensions)
+ExifRead>=2.3 # For reading EXIF metadata
