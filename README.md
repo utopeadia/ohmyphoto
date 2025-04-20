@@ -7,8 +7,6 @@
 
 ---
 
-## English
-
 OhMyPhoto aims to be a web-based open source photo viewer.
 
 ### Planned Features
@@ -47,8 +45,6 @@ The basic backend structure is set up using Flask, including:
 8. Access the application at `http://localhost:5000`.
 
 ---
-
-## 中文 (Chinese)
 
 OhMyPhoto的目标是成为一个基于 Web 的开源照片查看器。
 
