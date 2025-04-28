@@ -8,3 +8,4 @@ Werkzeug>=2.0 # For password hashing
 email-validator>=1.1 # For email validation in forms
 Pillow>=9.0 # For image processing (thumbnails, dimensions)
 ExifRead>=2.3 # For reading EXIF metadata
+111
